@@ -1,13 +1,6 @@
-- 👋 Hi, I’m Viktor 
-- 👀 I’m web 3.0 builder
-- 🌱 I study cryptocurrencies, help projects go to market, I write articles/guides, shoot videos on cryptocurrencies
-- 📫 How to reach me telegram - @voronrockstar
-- Discord - VoronXR#9768
-- email moriskaktak@gmail.com
-
 **THIS IS MY PORTFOLIO:**
 
-My name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto industry in 2021. I am compiling this resume for a full-time job search in the crypto industry.
+Hi, my name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto industry in 2021. I am compiling this resume for a full-time job search in the crypto industry.
 
 <a href="https://ibb.co/2S5r2Dt"><img src="https://i.ibb.co/RN7Knx0/2022-06-21-16-30-50.jpg" alt="2022-06-21-16-30-50" border="0"></a>
 
@@ -25,8 +18,15 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 
 **PROJECTS IN WHICH I PARTICIPATED:**
 - Moonbeam https://moonbeam.network/ (ambassador, made guides on participation in the Ambassador program, filmed a video about the project)
-- [How added Moonbeam chain in Metamask guide](https://medium.com/@voronxr/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D0%B8-moonbeam-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B9-metamask-243dac8578cc)
-- Goldfinch https://goldfinch.finance/ (produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya)
+- [How add Moonbeam chain in Metamask guide](https://medium.com/@voronxr/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D0%B8-moonbeam-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B9-metamask-243dac8578cc)
+- [Video guide how add Moonbeam chain in Metamask](https://www.youtube.com/watch?v=l3Daz6FjmWk)
+- [How contribute in Moonbeam parachain video](https://www.youtube.com/watch?v=pdvT2lsY-58)
+- [Get crowdloan GLMR token video](https://www.youtube.com/watch?v=plMFFVSsSME)
+- 
+- Goldfinch https://goldfinch.finance/ (produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya) 
+- [Cashway Investment Committee Memorandum (IC Memo)](https://docs.google.com/document/d/12UE_HT5BKqlYaJa6OkW4GWsPXb22_guHezSAjGy2IlQ/edit)
+- [Guide on how to become a member of the Goldfinch Flight Academy](https://medium.com/@voronxr/flight-academy-goldfinch-opens-its-doors-to-everyone-30c5a94361ae)
+- [I explain the essence of Chapter 4 of the Goldfinch Flight Academy. Video](https://www.youtube.com/watch?v=zq0e7Akte6Q)
 - 
 - InVarch https://www.invarch.network/ (I am an active member of the team for creating and distributing content about the project. I made a lot of videos covering the news of the project, I also created videos and text guides for the project)
 - 
