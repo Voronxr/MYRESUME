@@ -26,7 +26,7 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 - [Video project overview of Moonbeam ](https://www.youtube.com/watch?v=59Y-n1PgSMA)
 - [Moonbeam network expansion and new partnerships video](https://www.youtube.com/watch?v=G2WJuGfM2ms)
 
-- Goldfinch https://goldfinch.finance/ (produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya) 
+- ***All this text is important*** https://goldfinch.finance/ (produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya) 
 - [Cashway Investment Committee Memorandum (IC Memo)](https://docs.google.com/document/d/12UE_HT5BKqlYaJa6OkW4GWsPXb22_guHezSAjGy2IlQ/edit)
 - [Guide on how to become a member of the Goldfinch Flight Academy](https://medium.com/@voronxr/flight-academy-goldfinch-opens-its-doors-to-everyone-30c5a94361ae)
 - [I explain the essence of Chapter 4 of the Goldfinch Flight Academy. Video](https://www.youtube.com/watch?v=zq0e7Akte6Q)
