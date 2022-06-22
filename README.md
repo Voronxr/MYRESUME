@@ -1,4 +1,4 @@
-**THIS IS MY PORTFOLIO:**
+**THIS IS MY RESUME:**
 
 Hi, my name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto industry in 2021. I am compiling this resume for a full-time job search in the crypto industry.
 
