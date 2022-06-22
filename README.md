@@ -47,6 +47,15 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 - [Video review of decentralized exchange FireFly](https://www.youtube.com/watch?v=YLAL4pAk3s8)
 
 - ***Parallel Finance*** https://parallel.fi/ (In this project, I was an ambassador, I made a lot of articles/guides, shot a video for the project, covered its news and tested the beta version of the DOTSAMA investment platform)
+- [An article about testing the Parallel Finance platform](https://medium.com/@voronxr/%D1%82%D0%B5%D1%81%D1%82%D0%BD%D0%B5%D1%82-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-parallel-finance-cf7866d10a94)
+- [An article on how to participate in the auction for Polkadot in favor of Parallel Finance](https://medium.com/@voronxr/parallel-finance-%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD-%D0%B7%D0%B0-polkadot-762943dea3b0)
+- [Parallel Finance instructions for new ambassadors!](https://medium.com/@voronxr/parallel-finance-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%BE%D0%B2%D1%8B%D1%85-%D0%B0%D0%BC%D0%B1%D0%B0%D1%81%D1%81%D0%B0%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-4ae47ad83ccc)
+- [Parallel Finance Ambassador. Video review of the testnet](https://www.youtube.com/watch?v=VOwbjPBuk04)
+- [Video review of Parallel finance project](https://www.youtube.com/watch?v=cEIwu00iT4A)
+- [Parallel Finance Auction Polkadot! Ambassador program, news](https://www.youtube.com/watch?v=9PKG_Y8MGLI)
+- [Bonus for every DOT! Parallel finance participation in the auction for parachain](https://www.youtube.com/watch?v=KF1MRexEbEk)
+- [PARALLEL FINANCE AMBASSADOR PROGRAM. HOW TO GET POINTS? VIDEO INSTRUCTION](https://www.youtube.com/watch?v=fJ3tkixBiG4)
+- [PARALLEL FINANCE TAKES THE 4TH SLOT OF THE POLKADOT PARACHAIN!](https://www.youtube.com/watch?v=RnGIbgHTgnw)
 - 
 - ***Golden Protocol*** https://golden.com/ (In this protocol, I am filling the library with all kinds of information about people, companies, facts of our world. Already created many articles)
 
