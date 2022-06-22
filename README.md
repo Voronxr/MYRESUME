@@ -29,6 +29,14 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 - [I explain the essence of Chapter 4 of the Goldfinch Flight Academy. Video](https://www.youtube.com/watch?v=zq0e7Akte6Q)
 - 
 - InVarch https://www.invarch.network/ (I am an active member of the team for creating and distributing content about the project. I made a lot of videos covering the news of the project, I also created videos and text guides for the project)
+- [Invarch project review - article](https://medium.com/@voronxr/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-invarch-8d6220d8977a)
+- ["Decentralized Joint Venture Technology" explained in article](https://medium.com/@voronxr/invarch-%D0%B4%D0%B5%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F-9b94482fd15c)
+- [Video guide about InVarch ecosystem](https://www.youtube.com/watch?v=cntmPdMGCMw)
+- [Video guide about InVarch ambassador program](https://www.youtube.com/watch?v=nB81nrWDHx0)
+- [Video guide about InVarch road map](https://www.youtube.com/watch?v=vx6tTNsjrFo)
+- [Video guide about InVarch crosschain technology](https://www.youtube.com/watch?v=ILO1ya9OgaA)
+- [InVarch video about TGE and tokenomic](https://www.youtube.com/watch?v=qfrLlY5KFTA)
+- [Video about investors of InVarch](https://www.youtube.com/watch?v=F5-8pe-Tqfg)
 - 
 - FireFly https://firefly.exchange/ (In this decentralized exchange project, I helped test the trading application in beta version, identify bugs and make reports for the team. The tests were successful, the exchange is up and running)
 - 
