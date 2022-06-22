@@ -11,6 +11,7 @@ Hi, my name is Viktor Voronkov (VoronXR) I am 27 years old, joined the crypto in
 - testing crypto projects in the early stages, identify bugs, offer solutions
 - invest in cryptocurrency (projects in the early stages)
 - I'm fond of NFT and Metavers
+- DeFi beliver
 - study English (native Russian)
 
 I really like to communicate and interact with people around the world, help them, explain complex things related to cryptocurrency topics. I will be incredibly pleased to become part of a team that develops a product in the crypto industry!
