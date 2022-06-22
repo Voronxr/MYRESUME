@@ -13,7 +13,10 @@ Hi, my name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto i
 - I'm fond of NFT and Metavers
 - study English (native Russian)
 
-EDUCATION - Novosibirsk State University, Department of Management and Logistics (2015)
+I really like to communicate and interact with people around the world, help them, explain complex things related to cryptocurrency topics. I will be incredibly pleased to become part of a team that develops a product in the crypto industry!
+
+EDUCATION - Novosibirsk State University, Department of Management and Logistics (2015).
+3-month business school courses in the direction of creating and automating business processes, building auto funnels, creating and retaining a customer base.
 
 
 **PROJECTS IN WHICH I PARTICIPATED:**
