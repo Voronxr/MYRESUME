@@ -72,6 +72,10 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 - [My profile with all the articles that I made on the platform you can see here](https://golden.com/profile/viktor-voronkov)
 
 
+- ***Unique Network***
+[Video about public sale of the UNIQUE token](https://www.youtube.com/watch?v=DghkpVyGItM)
+
+
 _I also have experience in raising and administering nodes for projects.
 Most of the work is done in Russian, but I can also write and make videos for an English-speaking audience._
 
