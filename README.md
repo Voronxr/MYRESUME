@@ -22,12 +22,15 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 - [Video guide how add Moonbeam chain in Metamask](https://www.youtube.com/watch?v=l3Daz6FjmWk)
 - [How contribute in Moonbeam parachain video](https://www.youtube.com/watch?v=pdvT2lsY-58)
 - [Get crowdloan GLMR token video](https://www.youtube.com/watch?v=plMFFVSsSME)
-- 
+- [Moonbeam ambassador programm video](https://www.youtube.com/watch?v=7bpjxG4TPcM)
+- [Video project overview of Moonbeam ](https://www.youtube.com/watch?v=59Y-n1PgSMA)
+- [Moonbeam network expansion and new partnerships video](https://www.youtube.com/watch?v=G2WJuGfM2ms)
+
 - Goldfinch https://goldfinch.finance/ (produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya) 
 - [Cashway Investment Committee Memorandum (IC Memo)](https://docs.google.com/document/d/12UE_HT5BKqlYaJa6OkW4GWsPXb22_guHezSAjGy2IlQ/edit)
 - [Guide on how to become a member of the Goldfinch Flight Academy](https://medium.com/@voronxr/flight-academy-goldfinch-opens-its-doors-to-everyone-30c5a94361ae)
 - [I explain the essence of Chapter 4 of the Goldfinch Flight Academy. Video](https://www.youtube.com/watch?v=zq0e7Akte6Q)
-- 
+
 - InVarch https://www.invarch.network/ (I am an active member of the team for creating and distributing content about the project. I made a lot of videos covering the news of the project, I also created videos and text guides for the project)
 - [Invarch project review - article](https://medium.com/@voronxr/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-invarch-8d6220d8977a)
 - ["Decentralized Joint Venture Technology" explained in article](https://medium.com/@voronxr/invarch-%D0%B4%D0%B5%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F-9b94482fd15c)
@@ -37,9 +40,11 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 - [Video guide about InVarch crosschain technology](https://www.youtube.com/watch?v=ILO1ya9OgaA)
 - [InVarch video about TGE and tokenomic](https://www.youtube.com/watch?v=qfrLlY5KFTA)
 - [Video about investors of InVarch](https://www.youtube.com/watch?v=F5-8pe-Tqfg)
-- 
+
 - FireFly https://firefly.exchange/ (In this decentralized exchange project, I helped test the trading application in beta version, identify bugs and make reports for the team. The tests were successful, the exchange is up and running)
-- 
+- [Ambassador's manual FireFly protocol in article](https://medium.com/@voronxr/firefly-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%B0%D0%BC%D0%B1%D0%B0%D1%81%D1%81%D0%B0%D0%B4%D0%BE%D1%80%D0%B0-99c1c6ba0204)
+- [Video review of decentralized exchange FireFly](https://www.youtube.com/watch?v=YLAL4pAk3s8)
+
 - Parallel Finance https://parallel.fi/ (In this project, I was an ambassador, I made a lot of articles/guides, shot a video for the project, covered its news and tested the beta version of the DOTSAMA investment platform)
 - 
 - Golden Protocol https://golden.com/ (In this protocol, I am filling the library with all kinds of information about people, companies, facts of our world. Already created many articles)
