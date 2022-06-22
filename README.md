@@ -73,13 +73,13 @@ Most of the work is done in Russian, but I can also write and make videos for an
 
 
 All my social networks for communication:
-Telegram - @voronrockstar
-[Reddit](https://www.reddit.com/user/voronrockstar)
-Discord - VoronXR#9768
-[Twitter](https://twitter.com/voronrockstar)
-[YouTube](https://www.youtube.com/channel/UCCX2f3XKA6yc1JsTEgT-U4Q)
-[Medium](https://medium.com/@voronxr)
-email: moriskaktak@gmail.com
+- Telegram - @voronrockstar
+- [Reddit](https://www.reddit.com/user/voronrockstar)
+- Discord - VoronXR#9768
+- [Twitter](https://twitter.com/voronrockstar)
+- [YouTube](https://www.youtube.com/channel/UCCX2f3XKA6yc1JsTEgT-U4Q)
+- [Medium](https://medium.com/@voronxr)
+- email: moriskaktak@gmail.com
 
 
 
