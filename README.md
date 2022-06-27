@@ -2,7 +2,8 @@
 
 Hi, my name is Viktor Voronkov (VoronXR) I am 27 years old, joined the crypto industry in 2021. I am compiling this resume for a full-time job search in the crypto industry.
 
-<a href="https://ibb.co/2S5r2Dt"><img src="https://i.ibb.co/RN7Knx0/2022-06-21-16-30-50.jpg" alt="2022-06-21-16-30-50" border="0"></a>
+![2022-06-21 16 30 50](https://user-images.githubusercontent.com/80948529/175970717-28b31746-787c-4331-afc5-bf189c1d6a1b.jpg)
+
 
 - writing articles for projects
 - making guides/tutorials
