@@ -83,6 +83,7 @@ Most of the work is done in Russian, but I can also write and make videos for an
 
 All my social networks for communication:
 - Telegram - @voronrockstar
+- [Facebook](https://www.facebook.com/voronrockstar)
 - [Reddit](https://www.reddit.com/user/voronrockstar)
 - Discord - VoronXR#9768
 - [Twitter](https://twitter.com/voronrockstar)
